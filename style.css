@@ -118,9 +118,14 @@ form{
         }
     form {
         flex-direction: column;
+        width: 100%;
     }
     #search-input{
         margin-bottom: 20px;
-        width: 85%;
+        width: 70%;
+    }
+    form button{
+        /* margin-bottom: 20px; */
+        width: 70%;
     }
 }
